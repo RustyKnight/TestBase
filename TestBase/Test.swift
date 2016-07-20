@@ -9,6 +9,11 @@
 import Foundation
 
 public class BaseTest {
+
+	public init() {
+		
+	}
+	
 	public func sayHello() {
 		print("Hello from base test")
 	}
